@@ -1,0 +1,7 @@
+#git a upload intregate korte
+1. git init
+#git vs code a ante 
+git clone (repo link)
+
+#merge korte
+git merge (branh)
