@@ -14,3 +14,6 @@ git merge (branh name)
 2. ar pore ai command dite hobe tar por amar code link => git remote origin https://github.com/sablu1234/sbtech-theme-office.git
 3. akhon ami akta branch create korbo ata aro user friendly hobe => 1.0.2
 4. akhon merge korte hobe tai ami jar sathe merge korbo seta vs code a select korbo tarpor ata diye je version merge korbo seta dite hobe => git merge 1.0.2
+
+=================================================
+#jodi github a update code thake but tomar code a update code na thake update code tomar file ao update korte => git pull origin main
