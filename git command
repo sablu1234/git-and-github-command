@@ -20,3 +20,6 @@ git merge (branh name)
 
 ==========================================================
 #jodi github ar code overight kore only amar local code rakte chai => git push origin main --force-with-lease
+
+==========================================================================
+#ager code reset korte => git reset --hard origin/main
