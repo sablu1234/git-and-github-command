@@ -17,3 +17,6 @@ git merge (branh name)
 
 =================================================
 #jodi github a update code thake but tomar code a update code na thake update code tomar file ao update korte => git pull origin main
+
+==========================================================
+#jodi github ar code overight kore only amar local code rakte chai => git push origin main --force-with-lease
